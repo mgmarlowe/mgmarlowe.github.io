@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   MG Marlowe is a new web developer trying to officially break into the tech sector. This site is designed to provide a showcase spot for projects 
   and to provide a platform for blog posts. Topics vary. Page design inspired by <a href="http://taniarascia.com">Tania Rascia</a>
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "mgmarlowe.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://mgmarlowe.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: MMarlowe12
 github_username: mgmarlowe
 
@@ -38,7 +38,7 @@ kramdown:
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
-  
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
