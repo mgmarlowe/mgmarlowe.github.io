@@ -30,7 +30,7 @@ twitter_username: MMarlowe12
 github_username:  mgmarlowe
 
 # Build settings
-remote_theme: pages-themes/time-machine@v0.2.0
+remote_theme: benbalter/retlab
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
