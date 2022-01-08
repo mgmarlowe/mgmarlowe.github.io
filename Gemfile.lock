@@ -279,6 +279,7 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages (~> 223)
+  jekyll-remote-theme
 
 BUNDLED WITH
    2.3.4
