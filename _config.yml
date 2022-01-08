@@ -30,7 +30,7 @@ twitter_username: MMarlowe12
 github_username:  mgmarlowe
 
 # Build settings
-theme: jekyll-theme-time-machine
+theme: minima
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
