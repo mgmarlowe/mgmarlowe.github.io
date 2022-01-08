@@ -8,5 +8,5 @@
 # Happy Jekylling!
 source 'https://rubygems.org'
 gem 'github-pages', '~> 223'
-gem 'jekyll-remote-theme'
+#gem 'jekyll-remote-theme'
 
