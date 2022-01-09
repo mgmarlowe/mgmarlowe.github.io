@@ -29,7 +29,7 @@ twitter_username: MMarlowe12
 github_username: mgmarlowe
 
 # Build settings
-theme: minima
+#theme: minima
 sass:
   sass_dir: _sass
 include: ["_pages"]
